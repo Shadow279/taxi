@@ -1,0 +1,57 @@
+@import url("https://fonts.googleapis.com/css?family=Josefin+Sans");
+@import url("https://fonts.googleapis.com/css?family=Gloria+Hallelujah|Josefin+Sans");
+
+.inputBox {
+  color: black;
+  font-family: "Josefin Sans", sans-serif;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 10px;
+  width: 50%;
+
+  transition: background-color 0.5s, color 0.5s;
+}
+
+.start-travel {
+  width: auto !important;
+}
+
+.fontFam {
+  font-family: "Gloria Hallelujah", cursive;
+  font-size: 30px;
+  color: white;
+}
+
+.fontFami {
+  font-family: "Josefin Sans", cursive;
+}
+
+.mbody {
+  background-color: #5d576b;
+  overflow-x: hidden;
+  height: 100%;
+  width: 100%;
+  position: fixed;
+}
+
+.pageHead {
+  color: white;
+  font-size: 50px;
+}
+
+.badgeSize {
+  font-size: 15px;
+}
+
+.fasSize {
+  font-size: 20px;
+}
+
+.buttonDec {
+  width: 20%;
+}
+
+/* .linkDec{
+  text-decoration: none;
+  color: white;
+} */
